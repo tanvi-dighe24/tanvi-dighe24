@@ -1,15 +1,3 @@
-Hey there👋
-
-<!--
-**tanvi-dighe24/tanvi-dighe24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
- 
-- 🔭 I’m currently working on Coding Content Creation(#Misssion C3🚀)
-- 🌱 I’m currently learning AWS and Agentic AI
-- 👯 I’m looking to collaborate on building intresting Ai-tech-projects
-- 🔥 Open to join organization : email me on: tanvidighe1356@gmail.com
-- ⭐ Root fact: Carrying forward my grandfather's spiritual guru sadhana, immersed in healing practices.
 
 
 ## 🌐 Socials:

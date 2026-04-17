@@ -25,8 +25,6 @@ Email Me 👉 ✉️ **tanvidighe1356@gmail.com** For Collab/Offer
 ![](https://streak-stats.demolab.com/?user=tanvi-dighe24&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanvi-dighe24&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tanvi-dighe24&theme=ocean_dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

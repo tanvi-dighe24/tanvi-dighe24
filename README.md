@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **tanvidighe1356@gmail.com** For Collab/Offer
 - 💬 **Root Fact:** Deeply engaged in a journey of multidisciplinary discovery. 
 - ⚡ **INSTREST:** Coding, Classical Dance, Artistic things.
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imtanvi_6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvidighe1356) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tanud1356) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/preetyy_head) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SomeReal_Diaries) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvidighe1356@gmail.com) 
+[![Instagram](https://www.instagram.com/unbothered._.cup/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvidighe1356) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tanud1356) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/preetyy_head) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SomeReal_Diaries) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvidighe1356@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
